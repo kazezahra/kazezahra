@@ -1,15 +1,12 @@
-<h1 align="center">Hi 👋, I'm Kaneez e Zahra</h1>
+<h1 align="center">Hi, I'm Kaneez e Zahra</h1>
 
 
 
 
 <p align="left"> <a href="https://twitter.com/kazthebreaker" target="blank"><img src="https://img.shields.io/twitter/follow/kazthebreaker?logo=twitter&style=for-the-badge" alt="kazthebreaker" /></a> </p>
 
-- 🔭 I’m currently working as [a data science intern](https://github.com/kazezahra/CODSOFT)
+I am currently working on DSA on the weekdays, side projects on the weekend. Thanks for stopping by!!
 
-- 🌱 I’m currently learning **JavaScript, DSA, Python**
-
-- 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 📫 How to reach me **ifrazehra2281@gmail.com**
 
