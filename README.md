@@ -67,7 +67,7 @@ Also: C++, JavaScript, HTML/CSS, MySQL, pandas, seaborn.
 
 - Email: [ifrazehra2281@gmail.com](mailto:ifrazehra2281@gmail.com)
 - Portfolio: [@kez](https://kaneezportfolio.vercel.app/)
-- Twitter: [@kazthebreaker](https://twitter.com/kazthebreaker)
+- Twitter: [@kazezahra](https://x.com/kazezahra)
 - Instagram: [@kaz_postgrad](https://instagram.com/kaz_postgrad)
 
 <!--
