@@ -1,4 +1,4 @@
-<img src="./assets/banner.svg" width="100%" alt="Kaneez e Zahra">
+<img src=".banner.svg" width="100%" alt="Kaneez e Zahra">
 
 ```yaml
 name:       Kaneez e Zahra
